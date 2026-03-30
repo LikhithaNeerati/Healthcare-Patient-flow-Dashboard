@@ -6,9 +6,9 @@ A healthcare analytics project analyzing Medicare inpatient data across
 ---
 
 ## 📊 Live Dashboard
-👉 [View Interactive Dashboard on Tableau Public](YOUR_TABLEAU_URL_HERE)
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/MedicareInpatientAnalyticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard 1.png)
 
 ---
 
