@@ -58,7 +58,7 @@ across the United States.
 healthcare-patient-flow-dashboard/
 │
 ├── README.md
-├── dashboard_preview.png
+├── Dashboard.png
 │
 ├── sql/
 │   ├── 01_admissions_by_state.sql
